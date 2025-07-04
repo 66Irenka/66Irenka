@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Irenka.</h1>
+
 <h3 align="center">💻 I'm currently contributing as a junior frontend developer to the creation of Hutir Craft, a Ukrainian marketplace for craft local products.</h3>
 
 <p align="center">
