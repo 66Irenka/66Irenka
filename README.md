@@ -33,6 +33,13 @@
   <!-- Figma -->
   <img src="https://media.giphy.com/media/4M7IWwqpE2efM/giphy.gif" width="40" height="40" />
 
+<!-- Docker -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=66Irenka&theme=tokyonight&title=Stars,Commits,PR,Issues,Repositories&margin-w=10&margin-h=10" />
+
+
+
  ---
 
 ### 📈 GitHub Stats
@@ -44,6 +51,7 @@
 </p>
 
 ---
+![](https://komarev.com/ghpvc/?username=66Irenka&color=ff69b4&style=flat-square)
 
-
+---
 
