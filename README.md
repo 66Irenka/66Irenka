@@ -30,8 +30,6 @@
   <!-- Vite -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" />
 
-  <!-- Figma -->
-  <img src="https://media.giphy.com/media/4M7IWwqpE2efM/giphy.gif" width="40" height="40" />
 
 <!-- Docker -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
