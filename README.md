@@ -26,18 +26,8 @@
 
 ### 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=66Irenka&show_icons=true&theme=flat&hide_border=true&bg_color=ffffff&title_color=ff69b4&text_color=333333&icon_color=ff69b4" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=66Irenka&layout=compact&theme=flat&hide_border=true&bg_color=ffffff&title_color=ff69b4&text_color=333333" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=66Irenka&theme=light&hide_border=true&background=ffffff&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideNums=333333&sideLabels=333333" width="100%" />
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=66Irenka&show_icons=true&theme=flat&hide_border=true&bg_color=ffffff&title_color=ff69b4&text_color=333333&icon_color=ff69b4&vCenter=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=66Irenka&layout=compact&theme=flat&hide_border=true&bg_color=ffffff&title_color=ff69b4&text_color=333333&vCenter=true" height="165" /></p><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=66Irenka&theme=light&hide_border=true&background=ffffff&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideNums=333333&sideLabels=333333&vCenter=true" width="100%" /></p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=66Irenka&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" />
-</div>
-
+<div align="center"><img src="https://komarev.com/ghpvc/?username=66Irenka&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" /></div>
