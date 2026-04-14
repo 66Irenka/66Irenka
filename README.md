@@ -11,7 +11,6 @@
 
 ### 🔭 Current Focus
 * **Hutir Craft:** Contributing to a Ukrainian marketplace for local craft products.
-* **Thelema Tarot App:** Building a digital experience using **React + Zustand**.
 * **KPI (FIOT):** Pursuing a degree in **Software Engineering**.
 
 ### 🛠 Tech Stack
