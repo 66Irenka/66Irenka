@@ -5,12 +5,6 @@
 <p align="center">
   <strong>Building digital experiences with logic and intuition</strong>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/iryna-pavlenko-106702192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/66Irenka"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
 </div>
 
 ---
