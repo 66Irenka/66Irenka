@@ -1,58 +1,47 @@
+<div align="center">
 
-<h3 align="center">💻 I'm currently contributing as a junior frontend developer to the creation of Hutir Craft, a Ukrainian marketplace for craft local products.</h3>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Iryna+Pavlenko;Frontend+Developer;Software+Engineer)](https://git.io/typing-svg)
+
+<p align="center">
+  <strong>Building digital experiences with logic and intuition</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iryna-pavlenko-106702192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/66Irenka"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+</div>
 
 ---
 
-### 🔭 Currently working on
+### 🔭 Current Focus
+* **Hutir Craft:** Contributing to a Ukrainian marketplace for local craft products.
+* **Thelema Tarot App:** Building a digital experience using **React + Zustand**.
+* **KPI (FIOT):** Pursuing a degree in **Software Engineering**.
 
-- A **food  project** with a modern tech stack (React, Zustand, Vite)
-- Improving skills in **UI/UX**, **unit testing**, and **state management**
+### 🛠 Tech Stack
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | `React`, `JavaScript`, `Vite`, `Tailwind CSS`, `Zustand` |
+| **Backend & DB** | `C#`, `.NET`, `MySQL`, `DBeaver`, `C++` |
+| **Tools** | `Git`, `Docker`, `Postman`, `Power BI` |
 
 ---
-## 🚀 Favorite Tech
 
-<p align="left">
-  <!-- JavaScript -->
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="40" height="40" />
+### 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=66Irenka&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff69b4&icon_color=ff69b4" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=66Irenka&layout=compact&theme=tokyonight&hide_border=true&title_color=ff69b4" height="170" />
+</p>
 
-  <!-- React -->
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="40" height="40" />
-
-  <!-- HTML -->
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="40" height="40" />
-
-  <!-- CSS -->
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40" height="40" />
-
-  <!-- Git -->
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40" height="40" />
-
-  <!-- Vite -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" />
-
-<!-- PHP -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
-
-
-<!-- Docker -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=66Irenka&theme=tokyonight&title=Stars,Commits,PR,Issues,Repositories&margin-w=10&margin-h=10" />
-
-
-
- ---
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=66Irenka&show_icons=true&theme=tokyonight&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" alt="66Irenka's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=66Irenka&theme=tokyonight&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="66Irenka's GitHub streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=66Irenka&theme=tokyonight&hide_border=true&ring=ff69b4&fire=ff69b4" width="100%" />
 </p>
 
 ---
-![](https://komarev.com/ghpvc/?username=66Irenka&color=ff69b4&style=flat-square)
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=66Irenka&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" />
+</div>
 
