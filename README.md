@@ -11,6 +11,7 @@
 
 ### 🔭 Current Focus
 * **KPI (FIOT):** Pursuing a degree in **Software Engineering**.
+* **Hutir Craft:** Contributing to a Ukrainian marketplace for local craft products.
 
 ### 🛠 Tech Stack
 
