@@ -25,11 +25,11 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=66Irenka&theme=pink" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=66Irenka&theme=pink" width="80%" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=66Irenka&theme=flat&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=66Irenka&theme=flat&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" width="80%" alt="GitHub Streak" />
 </p>
 
 ---
