@@ -25,8 +25,7 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=66Irenka&show_icons=true&theme=flat&hide_border=true&title_color=ff69b4&icon_color=ff69b4&cache=1" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=66Irenka&layout=compact&theme=flat&hide_border=true&title_color=ff69b4&cache=1" height="165" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=66Irenka&theme=pink" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
